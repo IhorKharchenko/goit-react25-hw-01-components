@@ -1,4 +1,4 @@
-{
+[{
   "name": "Jacques Gluke",
   "tag": "jgluke",
   "location": "Ocho Rios, Jamaica",
@@ -8,4 +8,26 @@
     "views": 4827,
     "likes": 1308
   }
-}
+},
+{
+  "name": "Ihor Kharchenko",
+  "tag": "Stavrigo",
+  "location": "Kyiv, Ukraine",
+
+  "stats": {
+    "followers": 105,
+    "views": 4827,
+    "likes": 1308
+  }
+},
+{
+  "name": "Oksana Kharchenko",
+  "tag": "_oksanello4ka_",
+  "location": "Kyiv, Ukraine",
+  "avatar": "https://www.flaticon.com/svg/static/icons/svg/3784/3784184.svg",
+  "stats": {
+    "followers": 241,
+    "views": 4827,
+    "likes": 1308
+  }
+}]

@@ -1,14 +1,14 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import user from "./components/user.json";
-import Profile from "./components/Profile/Profile";
+import ProfilesList from "./components/Profile/ProfilesList";
+import users from "./components/user.json";
 
 function App() {
   return (
     <div className="App">
       <img src={logo} className="App-logo" alt="logo" />
-      <Profile user={user} />
+      <ProfilesList users={users} />
     </div>
   );
 }
