@@ -1,14 +1,10 @@
 .profilesList {
   display: flex;
   flex-wrap: wrap;
-  padding-left: 15px;
-  padding-right: 15px;
-  /* justify-content: center; */
-  background-color: #e7ecf2;
 }
 .profilesItem {
   margin-bottom: 30px;
-  width: calc((100% - 3 * 30px) / 3);
+  width: calc((100% - 2 * 30px) / 3);
   background-color: #fff;
   border-radius: 4px;
   box-shadow: 0 2px 2px 2px #cbd6e4;

@@ -25,6 +25,8 @@ p {
 .App {
   text-align: center;
   min-height: 100vh;
+  background-color: #eff3f6;
+  padding: 15px;
 }
 li {
   text-decoration: none;
