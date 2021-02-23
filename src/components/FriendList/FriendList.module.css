@@ -1,0 +1,21 @@
+/* .friend_list {
+  display: flex;
+  flex-direction: column;
+} */
+.item {
+  display: flex;
+  width: calc((100% - 2 * 30px) / 3);
+  align-items: center;
+}
+.status {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.isOnline {
+  background-color: green;
+}
+.isOffline {
+  background-color: red;
+}
