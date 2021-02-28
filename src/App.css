@@ -45,10 +45,8 @@ ul {
   margin-right: auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 10s linear;
-  }
+.App-logo {
+  animation: App-logo-spin infinite 10s linear;
 }
 
 @keyframes App-logo-spin {
